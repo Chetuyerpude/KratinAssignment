@@ -1,0 +1,48 @@
+
+.outerdiv{
+    margin-left: 310px;
+    margin-top: 70px;
+    width: 50%;
+    justify-items:center ;
+    border-radius: 5px;
+}
+.maindiv{
+    /* background-color: rgb(237, 237, 122); */
+    border: 3px;
+    /* border-color: darkgray; */
+    border-radius: 5px;
+    border-style: groove;
+}
+
+.dashdiv{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    font-style: oblique;
+    text-align: center;
+    text-decoration: double;
+    border-radius: 5px;
+}
+
+.titlediv{
+  height: 150px;
+}
+.title{
+    display: block;
+    padding-top: 35px;
+    text-align: center;
+    color:whitesmoke;
+    border-radius: 15px;
+    border: 3px solid black;
+}
+
+
+.imagediv{
+     padding-left: 20px;
+     padding-top: 20px;
+     border-radius: 50px;
+}
+.image{
+    width: 150px;
+    height: 120px;
+}
+

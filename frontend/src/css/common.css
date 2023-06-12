@@ -1,0 +1,77 @@
+.center{
+    margin: auto;
+      padding: 10px;
+    }
+   .innerdiv{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(233, 237, 241);
+    }
+    .inputdiv{
+      padding: 10px;
+     
+    }
+    .siginInput{
+      color: black;
+      flex-wrap: wrap;
+      display: flex;
+      justify-content: center;
+      background-color:darkslategrey;
+      border: 2px;
+      border-radius: 2px;
+      }
+    .smalldiv{
+      width: 500px;
+      height: 500px;
+      margin-top: 35px;
+      margin-left: 315px;
+      width: 50%;
+      background-color:#123;
+      border: 5px;
+      border-color: rgb(31, 205, 31);
+      border-radius: 10px;
+      color: aliceblue;
+    }
+   .submitbutton{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    margin-left: 250px;
+    border-radius: 5px;
+    }
+    .backgrounddiv{
+      display: flex;
+      height: 550px;
+    }
+    .datatable{
+     margin-top: 5px;
+    }
+    .headertext{
+      /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-style: italic;
+      background-color:antiquewhite; */
+      width: 40%;
+      margin-left: 415px;
+      border-radius: 15px;
+    }
+
+    .overlappeddiv{
+      display: flex;
+      flex-wrap: wrap;
+    }
+    .innerlappeddiv{
+      padding: 5px;
+    }
+
+    .centercontent{
+      justify-content: center;
+      margin-left: 325px;
+      margin-top: 20px;
+      width: 50%;
+    }
+
+  .logoutdiv{
+    margin-top: 100px;
+    margin-left: 100px;
+  }
